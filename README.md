@@ -2,7 +2,7 @@
 
 ## Summary 
 '''
-- Experienced Educator, Researcher and Administrator with almost twenty years of experience in data-oriented environment and a passion for delivering insights based on predictive modeling. 
-- Strong verbal and written communication skills as demonstrated by extensive participation as invited speaker at `10` conferences as well as publishing 149 research articles.
-- Strong track record in scholarly research with H-index of `32` and total citation of 3200+.
+- As a dedicated Data Scientist, I bring a blend of technical expertise and strong soft skills to the table. Proficient in Python, R, and SQL, I excel in extracting, cleaning, and analyzing complex datasets to derive actionable insights.
+- Beyond technical proficiency, I possess exceptional communication skills, enabling me to effectively collaborate with cross-functional teams and stakeholders.
+- Overall, I am a results-driven professional who is not only capable of delivering impactful data-driven solutions but also of fostering a collaborative and inclusive work environment conducive to innovation and growth.
 '''
