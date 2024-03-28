@@ -10,7 +10,7 @@
 
 ## Education
 
-**Bachelor of Technology** in Information Technology (Chandigarh Engineering College,Landran)  2021-2025 
+**Bachelor of Technology** in Information Technology (Chandigarh Engineering College,Landran)  `2021-2025` 
 - CGPA :`7.73`
 - Coursework in **DSA**,**DBMS**,**machine learning** fundamentals,**OOPS**, and statistical methods essential for data science proficiency.
 - Active involvement in co-curricular activities,participation in various cultural events,demonstrating practical application and leadership in data-related projects.
@@ -18,6 +18,6 @@
 
 ## Internship & Training
 
-**Python Training** @ CGC Landran                                                              July 2023    
+**Python Training** @ CGC Landran `July 2023 `   
 - 
 
