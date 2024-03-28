@@ -10,4 +10,4 @@
 
 ## Education
 
-**Bachelor of Technology** in Information Technology (CGC Landran)
+**Bachelor of Technology** in Information Technology (Chandigarh Engineering College,Landran)
