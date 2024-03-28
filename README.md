@@ -18,6 +18,6 @@
 
 ## Internship & Training
 
-**Python Training** at CGC Landran `July 2023 `   
+**Python Training at CGC Landran `July 2023 `**   
 - 
 
