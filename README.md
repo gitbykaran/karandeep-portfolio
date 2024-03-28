@@ -8,3 +8,6 @@
 >
 > - Overall, I am a results-driven professional who is not only capable of delivering impactful data-driven solutions but also of fostering a collaborative and inclusive work environment conducive to innovation and growth.
 
+## Education
+
+**Bachelor of Technology** in Information Technology
