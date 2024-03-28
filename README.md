@@ -10,4 +10,4 @@
 
 ## Education
 
-**Bachelor of Technology** in Information Technology
+**Bachelor of Technology** in Information Technology (CGC Landran)
