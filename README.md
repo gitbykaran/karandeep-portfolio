@@ -10,4 +10,5 @@
 
 ## Education
 
-**Bachelor of Technology** in Information Technology (Chandigarh Engineering College,Landran)
+**Bachelor of Technology** in Information Technology (Chandigarh Engineering College,Landran) 2021-2025 
+- CGPA:'7.73'
